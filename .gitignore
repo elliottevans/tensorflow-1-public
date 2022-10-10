@@ -8,3 +8,4 @@ horse-or-human*
 tmp/
 validation-horse-or-human*
 data/
+data_*/
