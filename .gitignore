@@ -9,3 +9,4 @@ tmp/
 validation-horse-or-human*
 data/
 data_*/
+logs/
