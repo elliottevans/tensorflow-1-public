@@ -10,3 +10,4 @@ validation-horse-or-human*
 data/
 data_*/
 logs/
+training_checkpoints/
