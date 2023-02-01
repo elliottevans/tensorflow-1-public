@@ -3,7 +3,6 @@ __pycache__
 .ipynb_checkpoints
 .DS_Store
 .idea/
-*SOLUTION*
 horse-or-human*
 tmp/
 validation-horse-or-human*
